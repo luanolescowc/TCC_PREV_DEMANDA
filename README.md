@@ -6,7 +6,7 @@ Descrição da problemática
 A globalização contribuiu para o crescimento da logística marítima mundial e é de suma importância ter uma gestão ativa para grandes tomadas de decisões nesse meio. A gestão financeira não é diferente, o gasto com energia elétrica pode representar mais de 40% dos custos de produção de uma empresa. Com base nisso, e essencial estabelecer soluções onde possa se ter tomadas de decisões precisas quanto a contratação de demanda de consumidores livres.
 O presente TCC visa solucionar o problema de erros de contratação de demanda, resultando em multas por excesso ou sobras de energia, elaborando um modelo de regressão (e futuramente uma rede neural artificial) para que, com base nas variáveis mais correlativas (econométricas, movimentações, climáticas, etc.), apresentar um equacionamento para previsão de médio e longo prazo. A fim de realizar uma contratação assertiva, minimizando os gastos.
 
-Fazes do projeto a serem desenvolvidas:
+Fases do projeto a serem desenvolvidas:
 
 - Estudo sobre a problemática.
 - Estudo sobre as variáveis envolvidas.
