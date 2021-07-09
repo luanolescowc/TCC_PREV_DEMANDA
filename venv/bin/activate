@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/luanolescowc/PycharmProjects/Previsor_de_Demanda_TCC/venv"
+VIRTUAL_ENV="/home/luanolescowc/ProgramDevelopment/Python/Github/Previsor_de_Demanda_TCC/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
